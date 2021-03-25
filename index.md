@@ -18,6 +18,8 @@ As you all may know I am working on a blog. You can access said blog by clicking
 - RSS Feed?
 - Slowly spread the word & be able to track the number of views.
 
+![Image of Blog](https://github.com/zsheley/Projects/blob/main/blog-example.PNG)
+
 ### Cross Country Trip
 
 **Details Coming Soon**
