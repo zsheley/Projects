@@ -22,4 +22,5 @@ As you all may know I am working on a blog. You can access said blog by clicking
 
 ### Cross Country Trip
 
-**Details Coming Soon**
+I am currently in the process of planning a trip around the country by train before I ship. I plan on posting pictures on my blog and the trip page as I go or shortly after.  
+To learn more about this project feel free to follow this [Link](https://zsheley.github.io/trips/cross-country-by-train)
